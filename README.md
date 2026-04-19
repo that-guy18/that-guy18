@@ -1,32 +1,46 @@
 # Hi 👋, I'm Shivam Kumar
 
-### Aspiring Software Engineer
+### 🚀 Aspiring Software Engineer | Full-Stack Developer
 
-- 📫 How to reach me **shivamkumarsk208@gmail.com**
+I’m a passionate developer focused on building scalable web applications and continuously improving my problem-solving skills. I enjoy working across the stack and turning ideas into real-world products.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/that-guy18"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/shivam-kumar88"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://leetcode.com/shivam_codes18"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="48" /></a>
+</p>
+📫 Reach me at: shivamkumarsk208@gmail.com
+
+---
+
+### 💻 Tech Stack
+
 <p align="center">
-<a href="https://github.com/that-guy18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="that-guy18" height="30" width="40" />
-<a href="https://linkedin.com/in/shivam-kumar88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-2a8131295" height="30" width="40" />
-<a href="https://leetcode.com/shivam_codes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam_codes18" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,aws,git,html,css,figma,postman,go,php" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> 
-</p>
+---
+
+### 🧠 What I’m Working On
+
+* Building full-stack web applications
+* Strengthening Data Structures & Algorithms
+* Exploring cloud technologies (AWS)
+
+---
+
+### 🏆 Highlights
+
+* Solved problems on LeetCode
+* Built multiple full-stack projects
+* Strong foundation in C++, JavaScript, and backend development
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy debugging as much as building — every bug is a puzzle to solve 🧩
