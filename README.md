@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Software Engineer | Full-Stack Developer
 
-I’m a passionate developer focused on building scalable web applications and continuously improving my problem-solving skills. I enjoy working across the stack and turning ideas into real-world products.
+I am a passionate developer focused on building scalable web applications and continuously improving my problem-solving skills. I enjoy working across the stack and turning ideas into real-world products.
 
 ---
 
@@ -19,25 +19,25 @@ I’m a passionate developer focused on building scalable web applications and c
 
 ### 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,aws,git,html,css,figma,postman,go,php" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C/C++, Python, JavaScript, TypeScript, Go, PHP |
+| **Frontend** | React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3, Material UI |
+| **Backend & DB** | Node.js, Express.js, MongoDB, MySQL, PostgreSQL |
+| **Tools & Version Control** | Git, GitHub, Postman, Axios, Figma |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,tailwind,html,css,figma,postman,go,php" />
 </p>
 
 ---
 
-### 🧠 What I’m Working On
+### 🚀 Professional Highlights
 
-* Building full-stack web applications
-* Strengthening Data Structures & Algorithms
-* Exploring cloud technologies (AWS)
-
----
-
-### 🏆 Highlights
-
-* Solved problems on LeetCode
-* Built multiple full-stack projects
-* Strong foundation in C++, JavaScript, and backend development
+* **Full-Stack Innovation:** Developed a custom proposal builder during my time at *Civora Nexus*, automating 80% of the manual writing process and dramatically boosting team efficiency.
+* **Production-Ready Frontend:** Built responsive, typed modules at *Digixito Media* using Next.js and TypeScript, troubleshooting REST API integrations alongside backend teams.
+* **Problem Solver:** Solved 100+ Data Structures & Algorithms problems on LeetCode, with strong foundations in Arrays, Hash Maps, Stacks, Queues, Recursion, and Space/Time Complexity analysis.
+* **Hackathon Finalist:** NexGen National Level Hackathon Finalist hosted by RKGIT, collaborating closely under intense time constraints to ship an innovative product.
 
 ---
 
