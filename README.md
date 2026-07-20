@@ -34,7 +34,6 @@ I am a passionate developer focused on building scalable web applications and co
 
 ### 🚀 Professional Highlights
 
-* **Full-Stack Innovation:** Developed a custom proposal builder during my time at *Civora Nexus*, automating 80% of the manual writing process and dramatically boosting team efficiency.
 * **Production-Ready Frontend:** Built responsive, typed modules at *Digixito Media* using Next.js and TypeScript, troubleshooting REST API integrations alongside backend teams.
 * **Problem Solver:** Solved 100+ Data Structures & Algorithms problems on LeetCode, with strong foundations in Arrays, Hash Maps, Stacks, Queues, Recursion, and Space/Time Complexity analysis.
 * **Hackathon Finalist:** NexGen National Level Hackathon Finalist hosted by RKGIT, collaborating closely under intense time constraints to ship an innovative product.
