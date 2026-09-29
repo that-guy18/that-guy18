@@ -56,10 +56,10 @@
 
 <div align="center">
   <a href="https://github.com/that-guy18">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=that-guy18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=that-guy18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/that-guy18">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=that-guy18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=that-guy18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
   </a>
 </div>
 
