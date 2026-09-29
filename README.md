@@ -55,9 +55,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=that-guy18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=that-guy18&theme=dark&hide_border=false)
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=that-guy18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=that-guy18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=that-guy18&theme=github_dark&hide_border=false)
+
 ---
 
 ### ⚡ Fun Fact & Beyond
