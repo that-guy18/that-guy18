@@ -1,27 +1,29 @@
-<div>
+<div align="center">
 
-  <h1>Hi 👋, I'm <a href="https://shivam-kumar-profile.vercel.app/" target="_blank">Shivam Kumar</a></h1>
-  <h3>🚀 Aspiring Software Engineer | Full-Stack Developer</h3>
+  <!-- Animated Typing Header -->
+  <a href="https://shivam-kumar-profile.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shivam+Kumar;Full-Stack+Developer+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Problem+Solver" alt="Typing SVG" />
+  </a>
 
-  <p>
-    Passionate about building scalable web applications, crafting clean code, and solving complex problems.
+  <p align="center">
+    <b>Building scalable web applications, crafting clean code, and solving complex problems.</b>
   </p>
 
-  <!-- Badges / Quick Links -->
-  <a href="https://shivam-kumar-profile.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-shivam--kumar--profile.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/shivam-kumar88">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivamkumarsk208@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivamkumarsk208@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/shivam_codes18">
-    <img src="https://img.shields.io/badge/LeetCode-shivam__codes18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-
-  <br/><br/>
+  <!-- Quick Action Badges -->
+  <p align="center">
+    <a href="https://shivam-kumar-profile.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/shivam-kumar88">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/shivam_codes18">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="mailto:shivamkumarsk208@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
@@ -52,17 +54,10 @@
 
 ---
 
-### 📊 GitHub & Coding Activity
-
-<div align="center">
-  <a href="https://github.com/that-guy18">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=that-guy18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/that-guy18">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=that-guy18&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=that-guy18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=that-guy18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=that-guy18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### ⚡ Fun Fact & Beyond
