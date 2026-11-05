@@ -38,8 +38,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
@@ -61,7 +61,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C, C++, Python, JavaScript, TypeScript, Go, PHP |
+| **Languages** | C, C++, Python, JavaScript, TypeScript |
 | **Frontend** | React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3, Material UI |
 | **Backend & Databases** | Node.js, Express.js, MongoDB, MySQL, PostgreSQL |
 | **Tools & Design** | Git, GitHub, Postman, Axios, Figma, VS Code |
